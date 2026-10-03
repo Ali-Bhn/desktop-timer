@@ -1,0 +1,131 @@
+DESKTOP TIMER PERSONAL USE LICENSE
+
+Version 1.0 - applies to Desktop Timer 1.0.0
+Copyright (c) 2026 Desktop Timer. All rights reserved.
+
+Desktop Timer is proprietary software. It is made available free of charge
+for personal, non-commercial use only. It is not open-source software and
+this is not an open-source license.
+
+Please read the license that is included with the release you downloaded.
+That copy sets the terms that apply to that release.
+
+This is a practical project license. It is not legal advice.
+
+
+1. DEFINITIONS
+
+"Software" means Desktop Timer, including its installer, executable files,
+icons, images, sounds and any documentation distributed with it.
+
+"Desktop Timer" or "we" means the owner of the Software.
+
+"You" means the individual person who installs or uses the Software.
+
+"Personal, non-commercial use" means use by an individual for their own
+private purposes (for example study, hobbies, gaming, or personal
+productivity) that is not part of a business, a paid service, or any
+activity intended to produce commercial advantage or money.
+
+
+2. GRANT OF LICENSE
+
+Subject to this license, we grant you a limited, non-exclusive,
+non-transferable, revocable license to download, install and use the
+Software, free of charge, on computers that you own or control, for
+personal, non-commercial use only.
+
+
+3. OWNERSHIP
+
+The Software is licensed to you, not sold. We keep all right, title and
+interest in the Software, including all copyrights and other intellectual
+property rights. This license gives you no ownership of the Software and no
+rights other than those stated here. All rights not expressly granted are
+reserved.
+
+
+4. RESTRICTIONS
+
+You may not:
+
+  a) use the Software for any commercial purpose;
+  b) sell, resell, or charge anyone for the Software or for access to it;
+  c) distribute the Software for payment, or as part of any paid offer;
+  d) redistribute the Software commercially, or bundle it with any
+     commercial product or service;
+  e) use the Software as part of, or to provide, a commercial or paid
+     product or service;
+  f) modify the Software, or create derivative works, in order to
+     redistribute them;
+  g) repackage the installer or the Software, or distribute modified
+     builds;
+  h) sublicense, rent, lease or lend the Software;
+  i) remove, hide or alter any copyright, ownership or attribution notice,
+     or claim the Software as your own or misrepresent its origin;
+  j) reverse engineer, decompile or disassemble the Software, except to the
+     extent that applicable law allows this despite this restriction.
+
+
+5. REDISTRIBUTION
+
+You may not redistribute the Software, in original or modified form, except
+as follows: you may share an unmodified link to the official download
+location of the Software. Other redistribution requires our prior written
+permission.
+
+
+6. TERMINATION
+
+This license applies until it is terminated. It ends automatically if you
+break any of its terms. When it ends, you must stop using the Software and
+delete all copies in your possession. You may also end this license at any
+time by uninstalling the Software and deleting your copies. Sections 3, 4,
+7, 8, 9 and 11 continue to apply after termination.
+
+
+7. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, ACCURACY, RELIABILITY AND NON-INFRINGEMENT. WE DO
+NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, OR SUITABLE
+FOR ANY SAFETY-CRITICAL OR TIME-CRITICAL PURPOSE. YOU USE THE SOFTWARE AT
+YOUR OWN RISK.
+
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE WILL NOT BE LIABLE FOR
+ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR FOR
+ANY LOSS OF DATA, PROFITS, OR OPPORTUNITIES, ARISING OUT OF OR RELATED TO
+THE USE OF, OR INABILITY TO USE, THE SOFTWARE, EVEN IF WE HAVE BEEN ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGES. OUR TOTAL LIABILITY FOR ANY CLAIM
+RELATED TO THE SOFTWARE WILL NOT EXCEED THE AMOUNT YOU PAID FOR IT, WHICH IS
+ZERO. Nothing in this license excludes liability that cannot be excluded
+under applicable law.
+
+
+9. UPDATES AND CHANGES
+
+We may change, update, suspend or discontinue the Software or any of its
+features at any time, without notice and without obligation to provide
+support, maintenance or updates. We may also publish a new version of this
+license; the license included with a release applies to that release.
+
+
+10. THIRD-PARTY COMPONENTS
+
+The Software includes or relies on third-party components, such as the
+Microsoft Edge WebView2 Runtime and open-source libraries, which have their
+own licenses. Those components remain subject to their own license terms,
+and nothing in this license changes them.
+
+
+11. SEVERABILITY AND GENERAL TERMS
+
+If any part of this license is found to be unenforceable, the rest of it
+remains in effect and the unenforceable part will be applied to the
+greatest extent permitted. Our failure to enforce any term is not a waiver
+of it. This license is the whole agreement between you and us about the
+Software, and replaces any earlier understanding about it.

@@ -1,0 +1,2 @@
+SHA256  Desktop-Timer-1.0.0-Windows-x64-Setup.exe
+953459f5a1db9461908d9eaf3c3902676d1d6632b6f78920a670134353ff361b
