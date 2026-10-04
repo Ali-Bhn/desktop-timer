@@ -1,2 +1,5 @@
 SHA256  Desktop-Timer-1.0.0-Windows-x64-Setup.exe
 953459f5a1db9461908d9eaf3c3902676d1d6632b6f78920a670134353ff361b
+
+SHA256  Desktop-Timer-1.0.0-macOS-Apple-Silicon.dmg
+9a7ba6ff1138b6ea969893b91c8ecaf56177f1f7f2681b32d2634fe8df7670a3
